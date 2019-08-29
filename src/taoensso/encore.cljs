@@ -49,8 +49,6 @@
    [goog.string.format]
    [goog.string.StringBuffer]
    [goog.events         :as gevents]
-   [goog.net.XhrIo      :as gxhr]
-   [goog.net.XhrIoPool  :as gxhr-pool]
    [goog.Uri.QueryData  :as gquery-data]
    [goog.structs        :as gstructs]
    [goog.net.EventType]
